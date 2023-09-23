@@ -1,16 +1,20 @@
 ### Hi there 👋
+🐎 My name is Jawad (جواد)! It primarily means Open-handed/Generous or a Steed in Arabic.
 
-<!--
-**jawaditani/jawaditani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+### Trying to learn:
+📝 I'm  studying 2 languages right now:
+- 🖥️```{Computer_Programing++}```
+- 🗣️ Bahasa Indonesia
 
-Here are some ideas to get you started:
+---
+### Daily:
+🍽️ I love cooking!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### Bucket list:
+To do:
+- [ ] Learn computer programming
+- [ ] Learn to speak Indonesian
+- [ ] Create passive income
+- [ ] Visit Indonesia
